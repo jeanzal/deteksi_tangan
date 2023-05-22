@@ -1,0 +1,1980 @@
+Frame: 1, Jumlah Tangan: 115
+Frame: 2, Jumlah Tangan: 107
+Frame: 3, Jumlah Tangan: 107
+Frame: 4, Jumlah Tangan: 106
+Frame: 5, Jumlah Tangan: 107
+Frame: 6, Jumlah Tangan: 107
+Frame: 7, Jumlah Tangan: 89
+Frame: 8, Jumlah Tangan: 89
+Frame: 9, Jumlah Tangan: 91
+Frame: 10, Jumlah Tangan: 91
+Frame: 11, Jumlah Tangan: 93
+Frame: 12, Jumlah Tangan: 93
+Frame: 13, Jumlah Tangan: 94
+Frame: 14, Jumlah Tangan: 81
+Frame: 15, Jumlah Tangan: 81
+Frame: 16, Jumlah Tangan: 90
+Frame: 17, Jumlah Tangan: 90
+Frame: 18, Jumlah Tangan: 120
+Frame: 19, Jumlah Tangan: 120
+Frame: 20, Jumlah Tangan: 134
+Frame: 21, Jumlah Tangan: 134
+Frame: 22, Jumlah Tangan: 117
+Frame: 23, Jumlah Tangan: 117
+Frame: 24, Jumlah Tangan: 111
+Frame: 25, Jumlah Tangan: 111
+Frame: 26, Jumlah Tangan: 112
+Frame: 27, Jumlah Tangan: 126
+Frame: 28, Jumlah Tangan: 126
+Frame: 29, Jumlah Tangan: 109
+Frame: 30, Jumlah Tangan: 109
+Frame: 31, Jumlah Tangan: 128
+Frame: 32, Jumlah Tangan: 128
+Frame: 33, Jumlah Tangan: 126
+Frame: 34, Jumlah Tangan: 133
+Frame: 35, Jumlah Tangan: 133
+Frame: 36, Jumlah Tangan: 131
+Frame: 37, Jumlah Tangan: 131
+Frame: 38, Jumlah Tangan: 91
+Frame: 39, Jumlah Tangan: 91
+Frame: 40, Jumlah Tangan: 85
+Frame: 41, Jumlah Tangan: 81
+Frame: 42, Jumlah Tangan: 81
+Frame: 43, Jumlah Tangan: 78
+Frame: 44, Jumlah Tangan: 78
+Frame: 45, Jumlah Tangan: 80
+Frame: 46, Jumlah Tangan: 80
+Frame: 47, Jumlah Tangan: 73
+Frame: 48, Jumlah Tangan: 73
+Frame: 49, Jumlah Tangan: 64
+Frame: 50, Jumlah Tangan: 67
+Frame: 51, Jumlah Tangan: 67
+Frame: 52, Jumlah Tangan: 96
+Frame: 53, Jumlah Tangan: 96
+Frame: 54, Jumlah Tangan: 82
+Frame: 55, Jumlah Tangan: 82
+Frame: 56, Jumlah Tangan: 89
+Frame: 57, Jumlah Tangan: 89
+Frame: 58, Jumlah Tangan: 73
+Frame: 59, Jumlah Tangan: 73
+Frame: 60, Jumlah Tangan: 61
+Frame: 61, Jumlah Tangan: 61
+Frame: 62, Jumlah Tangan: 56
+Frame: 63, Jumlah Tangan: 97
+Frame: 64, Jumlah Tangan: 97
+Frame: 65, Jumlah Tangan: 61
+Frame: 66, Jumlah Tangan: 61
+Frame: 67, Jumlah Tangan: 60
+Frame: 68, Jumlah Tangan: 60
+Frame: 69, Jumlah Tangan: 70
+Frame: 70, Jumlah Tangan: 60
+Frame: 71, Jumlah Tangan: 60
+Frame: 72, Jumlah Tangan: 39
+Frame: 73, Jumlah Tangan: 39
+Frame: 74, Jumlah Tangan: 43
+Frame: 75, Jumlah Tangan: 43
+Frame: 76, Jumlah Tangan: 47
+Frame: 77, Jumlah Tangan: 77
+Frame: 78, Jumlah Tangan: 77
+Frame: 79, Jumlah Tangan: 77
+Frame: 80, Jumlah Tangan: 77
+Frame: 81, Jumlah Tangan: 64
+Frame: 82, Jumlah Tangan: 64
+Frame: 83, Jumlah Tangan: 57
+Frame: 84, Jumlah Tangan: 57
+Frame: 85, Jumlah Tangan: 53
+Frame: 86, Jumlah Tangan: 67
+Frame: 87, Jumlah Tangan: 67
+Frame: 88, Jumlah Tangan: 69
+Frame: 89, Jumlah Tangan: 69
+Frame: 90, Jumlah Tangan: 70
+Frame: 91, Jumlah Tangan: 70
+Frame: 92, Jumlah Tangan: 61
+Frame: 93, Jumlah Tangan: 61
+Frame: 94, Jumlah Tangan: 61
+Frame: 95, Jumlah Tangan: 61
+Frame: 96, Jumlah Tangan: 57
+Frame: 97, Jumlah Tangan: 57
+Frame: 98, Jumlah Tangan: 67
+Frame: 99, Jumlah Tangan: 62
+Frame: 100, Jumlah Tangan: 62
+Frame: 101, Jumlah Tangan: 51
+Frame: 102, Jumlah Tangan: 51
+Frame: 103, Jumlah Tangan: 67
+Frame: 104, Jumlah Tangan: 67
+Frame: 105, Jumlah Tangan: 50
+Frame: 106, Jumlah Tangan: 41
+Frame: 107, Jumlah Tangan: 41
+Frame: 108, Jumlah Tangan: 38
+Frame: 109, Jumlah Tangan: 38
+Frame: 110, Jumlah Tangan: 42
+Frame: 111, Jumlah Tangan: 42
+Frame: 112, Jumlah Tangan: 46
+Frame: 113, Jumlah Tangan: 47
+Frame: 114, Jumlah Tangan: 47
+Frame: 115, Jumlah Tangan: 50
+Frame: 116, Jumlah Tangan: 50
+Frame: 117, Jumlah Tangan: 48
+Frame: 118, Jumlah Tangan: 48
+Frame: 119, Jumlah Tangan: 40
+Frame: 120, Jumlah Tangan: 40
+Frame: 121, Jumlah Tangan: 48
+Frame: 122, Jumlah Tangan: 51
+Frame: 123, Jumlah Tangan: 51
+Frame: 124, Jumlah Tangan: 47
+Frame: 125, Jumlah Tangan: 47
+Frame: 126, Jumlah Tangan: 44
+Frame: 127, Jumlah Tangan: 44
+Frame: 128, Jumlah Tangan: 50
+Frame: 129, Jumlah Tangan: 50
+Frame: 130, Jumlah Tangan: 54
+Frame: 131, Jumlah Tangan: 54
+Frame: 132, Jumlah Tangan: 44
+Frame: 133, Jumlah Tangan: 44
+Frame: 134, Jumlah Tangan: 46
+Frame: 135, Jumlah Tangan: 47
+Frame: 136, Jumlah Tangan: 47
+Frame: 137, Jumlah Tangan: 45
+Frame: 138, Jumlah Tangan: 45
+Frame: 139, Jumlah Tangan: 45
+Frame: 140, Jumlah Tangan: 45
+Frame: 141, Jumlah Tangan: 47
+Frame: 142, Jumlah Tangan: 45
+Frame: 143, Jumlah Tangan: 45
+Frame: 144, Jumlah Tangan: 49
+Frame: 145, Jumlah Tangan: 49
+Frame: 146, Jumlah Tangan: 48
+Frame: 147, Jumlah Tangan: 48
+Frame: 148, Jumlah Tangan: 49
+Frame: 149, Jumlah Tangan: 52
+Frame: 150, Jumlah Tangan: 52
+Frame: 151, Jumlah Tangan: 54
+Frame: 152, Jumlah Tangan: 54
+Frame: 153, Jumlah Tangan: 57
+Frame: 154, Jumlah Tangan: 57
+Frame: 155, Jumlah Tangan: 53
+Frame: 156, Jumlah Tangan: 53
+Frame: 157, Jumlah Tangan: 54
+Frame: 158, Jumlah Tangan: 59
+Frame: 159, Jumlah Tangan: 59
+Frame: 160, Jumlah Tangan: 60
+Frame: 161, Jumlah Tangan: 60
+Frame: 162, Jumlah Tangan: 64
+Frame: 163, Jumlah Tangan: 64
+Frame: 164, Jumlah Tangan: 50
+Frame: 165, Jumlah Tangan: 50
+Frame: 166, Jumlah Tangan: 57
+Frame: 167, Jumlah Tangan: 57
+Frame: 168, Jumlah Tangan: 47
+Frame: 169, Jumlah Tangan: 47
+Frame: 170, Jumlah Tangan: 48
+Frame: 171, Jumlah Tangan: 61
+Frame: 172, Jumlah Tangan: 61
+Frame: 173, Jumlah Tangan: 58
+Frame: 174, Jumlah Tangan: 58
+Frame: 175, Jumlah Tangan: 65
+Frame: 176, Jumlah Tangan: 59
+Frame: 177, Jumlah Tangan: 59
+Frame: 178, Jumlah Tangan: 77
+Frame: 179, Jumlah Tangan: 77
+Frame: 180, Jumlah Tangan: 87
+Frame: 181, Jumlah Tangan: 87
+Frame: 182, Jumlah Tangan: 63
+Frame: 183, Jumlah Tangan: 69
+Frame: 184, Jumlah Tangan: 69
+Frame: 185, Jumlah Tangan: 60
+Frame: 186, Jumlah Tangan: 60
+Frame: 187, Jumlah Tangan: 69
+Frame: 188, Jumlah Tangan: 69
+Frame: 189, Jumlah Tangan: 68
+Frame: 190, Jumlah Tangan: 68
+Frame: 191, Jumlah Tangan: 72
+Frame: 192, Jumlah Tangan: 72
+Frame: 193, Jumlah Tangan: 90
+Frame: 194, Jumlah Tangan: 74
+Frame: 195, Jumlah Tangan: 74
+Frame: 196, Jumlah Tangan: 82
+Frame: 197, Jumlah Tangan: 82
+Frame: 198, Jumlah Tangan: 74
+Frame: 199, Jumlah Tangan: 74
+Frame: 200, Jumlah Tangan: 82
+Frame: 201, Jumlah Tangan: 82
+Frame: 202, Jumlah Tangan: 96
+Frame: 203, Jumlah Tangan: 96
+Frame: 204, Jumlah Tangan: 82
+Frame: 205, Jumlah Tangan: 86
+Frame: 206, Jumlah Tangan: 86
+Frame: 207, Jumlah Tangan: 85
+Frame: 208, Jumlah Tangan: 85
+Frame: 209, Jumlah Tangan: 90
+Frame: 210, Jumlah Tangan: 90
+Frame: 211, Jumlah Tangan: 96
+Frame: 212, Jumlah Tangan: 86
+Frame: 213, Jumlah Tangan: 86
+Frame: 214, Jumlah Tangan: 90
+Frame: 215, Jumlah Tangan: 90
+Frame: 216, Jumlah Tangan: 89
+Frame: 217, Jumlah Tangan: 89
+Frame: 218, Jumlah Tangan: 92
+Frame: 219, Jumlah Tangan: 87
+Frame: 220, Jumlah Tangan: 87
+Frame: 221, Jumlah Tangan: 92
+Frame: 222, Jumlah Tangan: 92
+Frame: 223, Jumlah Tangan: 92
+Frame: 224, Jumlah Tangan: 92
+Frame: 225, Jumlah Tangan: 90
+Frame: 226, Jumlah Tangan: 90
+Frame: 227, Jumlah Tangan: 87
+Frame: 228, Jumlah Tangan: 87
+Frame: 229, Jumlah Tangan: 91
+Frame: 230, Jumlah Tangan: 94
+Frame: 231, Jumlah Tangan: 94
+Frame: 232, Jumlah Tangan: 86
+Frame: 233, Jumlah Tangan: 86
+Frame: 234, Jumlah Tangan: 86
+Frame: 235, Jumlah Tangan: 86
+Frame: 236, Jumlah Tangan: 84
+Frame: 237, Jumlah Tangan: 84
+Frame: 238, Jumlah Tangan: 80
+Frame: 239, Jumlah Tangan: 80
+Frame: 240, Jumlah Tangan: 96
+Frame: 241, Jumlah Tangan: 67
+Frame: 242, Jumlah Tangan: 67
+Frame: 243, Jumlah Tangan: 63
+Frame: 244, Jumlah Tangan: 63
+Frame: 245, Jumlah Tangan: 84
+Frame: 246, Jumlah Tangan: 84
+Frame: 247, Jumlah Tangan: 82
+Frame: 248, Jumlah Tangan: 100
+Frame: 249, Jumlah Tangan: 100
+Frame: 250, Jumlah Tangan: 72
+Frame: 251, Jumlah Tangan: 72
+Frame: 252, Jumlah Tangan: 89
+Frame: 253, Jumlah Tangan: 89
+Frame: 254, Jumlah Tangan: 81
+Frame: 255, Jumlah Tangan: 83
+Frame: 256, Jumlah Tangan: 83
+Frame: 257, Jumlah Tangan: 88
+Frame: 258, Jumlah Tangan: 88
+Frame: 259, Jumlah Tangan: 84
+Frame: 260, Jumlah Tangan: 84
+Frame: 261, Jumlah Tangan: 81
+Frame: 262, Jumlah Tangan: 81
+Frame: 263, Jumlah Tangan: 80
+Frame: 264, Jumlah Tangan: 80
+Frame: 265, Jumlah Tangan: 79
+Frame: 266, Jumlah Tangan: 90
+Frame: 267, Jumlah Tangan: 90
+Frame: 268, Jumlah Tangan: 94
+Frame: 269, Jumlah Tangan: 94
+Frame: 270, Jumlah Tangan: 85
+Frame: 271, Jumlah Tangan: 85
+Frame: 272, Jumlah Tangan: 98
+Frame: 273, Jumlah Tangan: 98
+Frame: 274, Jumlah Tangan: 90
+Frame: 275, Jumlah Tangan: 90
+Frame: 276, Jumlah Tangan: 88
+Frame: 277, Jumlah Tangan: 85
+Frame: 278, Jumlah Tangan: 85
+Frame: 279, Jumlah Tangan: 102
+Frame: 280, Jumlah Tangan: 102
+Frame: 281, Jumlah Tangan: 126
+Frame: 282, Jumlah Tangan: 126
+Frame: 283, Jumlah Tangan: 93
+Frame: 284, Jumlah Tangan: 80
+Frame: 285, Jumlah Tangan: 80
+Frame: 286, Jumlah Tangan: 75
+Frame: 287, Jumlah Tangan: 75
+Frame: 288, Jumlah Tangan: 84
+Frame: 289, Jumlah Tangan: 84
+Frame: 290, Jumlah Tangan: 54
+Frame: 291, Jumlah Tangan: 50
+Frame: 292, Jumlah Tangan: 50
+Frame: 293, Jumlah Tangan: 36
+Frame: 294, Jumlah Tangan: 36
+Frame: 295, Jumlah Tangan: 44
+Frame: 296, Jumlah Tangan: 44
+Frame: 297, Jumlah Tangan: 133
+Frame: 298, Jumlah Tangan: 133
+Frame: 299, Jumlah Tangan: 76
+Frame: 300, Jumlah Tangan: 76
+Frame: 301, Jumlah Tangan: 53
+Frame: 302, Jumlah Tangan: 27
+Frame: 303, Jumlah Tangan: 27
+Frame: 304, Jumlah Tangan: 26
+Frame: 305, Jumlah Tangan: 26
+Frame: 306, Jumlah Tangan: 42
+Frame: 307, Jumlah Tangan: 42
+Frame: 308, Jumlah Tangan: 44
+Frame: 309, Jumlah Tangan: 44
+Frame: 310, Jumlah Tangan: 48
+Frame: 311, Jumlah Tangan: 48
+Frame: 312, Jumlah Tangan: 48
+Frame: 313, Jumlah Tangan: 52
+Frame: 314, Jumlah Tangan: 52
+Frame: 315, Jumlah Tangan: 56
+Frame: 316, Jumlah Tangan: 56
+Frame: 317, Jumlah Tangan: 52
+Frame: 318, Jumlah Tangan: 52
+Frame: 319, Jumlah Tangan: 54
+Frame: 320, Jumlah Tangan: 41
+Frame: 321, Jumlah Tangan: 41
+Frame: 322, Jumlah Tangan: 28
+Frame: 323, Jumlah Tangan: 28
+Frame: 324, Jumlah Tangan: 56
+Frame: 325, Jumlah Tangan: 56
+Frame: 326, Jumlah Tangan: 66
+Frame: 327, Jumlah Tangan: 84
+Frame: 328, Jumlah Tangan: 84
+Frame: 329, Jumlah Tangan: 39
+Frame: 330, Jumlah Tangan: 39
+Frame: 331, Jumlah Tangan: 28
+Frame: 332, Jumlah Tangan: 28
+Frame: 333, Jumlah Tangan: 35
+Frame: 334, Jumlah Tangan: 35
+Frame: 335, Jumlah Tangan: 38
+Frame: 336, Jumlah Tangan: 38
+Frame: 337, Jumlah Tangan: 40
+Frame: 338, Jumlah Tangan: 47
+Frame: 339, Jumlah Tangan: 47
+Frame: 340, Jumlah Tangan: 51
+Frame: 341, Jumlah Tangan: 51
+Frame: 342, Jumlah Tangan: 39
+Frame: 343, Jumlah Tangan: 39
+Frame: 344, Jumlah Tangan: 33
+Frame: 345, Jumlah Tangan: 33
+Frame: 346, Jumlah Tangan: 29
+Frame: 347, Jumlah Tangan: 29
+Frame: 348, Jumlah Tangan: 32
+Frame: 349, Jumlah Tangan: 54
+Frame: 350, Jumlah Tangan: 54
+Frame: 351, Jumlah Tangan: 131
+Frame: 352, Jumlah Tangan: 131
+Frame: 353, Jumlah Tangan: 46
+Frame: 354, Jumlah Tangan: 46
+Frame: 355, Jumlah Tangan: 33
+Frame: 356, Jumlah Tangan: 31
+Frame: 357, Jumlah Tangan: 31
+Frame: 358, Jumlah Tangan: 41
+Frame: 359, Jumlah Tangan: 41
+Frame: 360, Jumlah Tangan: 40
+Frame: 361, Jumlah Tangan: 40
+Frame: 362, Jumlah Tangan: 47
+Frame: 363, Jumlah Tangan: 56
+Frame: 364, Jumlah Tangan: 56
+Frame: 365, Jumlah Tangan: 40
+Frame: 366, Jumlah Tangan: 40
+Frame: 367, Jumlah Tangan: 41
+Frame: 368, Jumlah Tangan: 41
+Frame: 369, Jumlah Tangan: 38
+Frame: 370, Jumlah Tangan: 38
+Frame: 371, Jumlah Tangan: 27
+Frame: 372, Jumlah Tangan: 27
+Frame: 373, Jumlah Tangan: 38
+Frame: 374, Jumlah Tangan: 70
+Frame: 375, Jumlah Tangan: 70
+Frame: 376, Jumlah Tangan: 73
+Frame: 377, Jumlah Tangan: 73
+Frame: 378, Jumlah Tangan: 42
+Frame: 379, Jumlah Tangan: 42
+Frame: 380, Jumlah Tangan: 30
+Frame: 381, Jumlah Tangan: 30
+Frame: 382, Jumlah Tangan: 44
+Frame: 383, Jumlah Tangan: 46
+Frame: 384, Jumlah Tangan: 46
+Frame: 385, Jumlah Tangan: 59
+Frame: 386, Jumlah Tangan: 59
+Frame: 387, Jumlah Tangan: 67
+Frame: 388, Jumlah Tangan: 67
+Frame: 389, Jumlah Tangan: 70
+Frame: 390, Jumlah Tangan: 65
+Frame: 391, Jumlah Tangan: 65
+Frame: 392, Jumlah Tangan: 68
+Frame: 393, Jumlah Tangan: 68
+Frame: 394, Jumlah Tangan: 43
+Frame: 395, Jumlah Tangan: 43
+Frame: 396, Jumlah Tangan: 29
+Frame: 397, Jumlah Tangan: 29
+Frame: 398, Jumlah Tangan: 56
+Frame: 399, Jumlah Tangan: 71
+Frame: 400, Jumlah Tangan: 71
+Frame: 401, Jumlah Tangan: 120
+Frame: 402, Jumlah Tangan: 120
+Frame: 403, Jumlah Tangan: 72
+Frame: 404, Jumlah Tangan: 72
+Frame: 405, Jumlah Tangan: 61
+Frame: 406, Jumlah Tangan: 61
+Frame: 407, Jumlah Tangan: 40
+Frame: 408, Jumlah Tangan: 40
+Frame: 409, Jumlah Tangan: 55
+Frame: 410, Jumlah Tangan: 63
+Frame: 411, Jumlah Tangan: 63
+Frame: 412, Jumlah Tangan: 70
+Frame: 413, Jumlah Tangan: 70
+Frame: 414, Jumlah Tangan: 68
+Frame: 415, Jumlah Tangan: 68
+Frame: 416, Jumlah Tangan: 78
+Frame: 417, Jumlah Tangan: 78
+Frame: 418, Jumlah Tangan: 68
+Frame: 419, Jumlah Tangan: 70
+Frame: 420, Jumlah Tangan: 70
+Frame: 421, Jumlah Tangan: 51
+Frame: 422, Jumlah Tangan: 51
+Frame: 423, Jumlah Tangan: 40
+Frame: 424, Jumlah Tangan: 40
+Frame: 425, Jumlah Tangan: 63
+Frame: 426, Jumlah Tangan: 108
+Frame: 427, Jumlah Tangan: 108
+Frame: 428, Jumlah Tangan: 89
+Frame: 429, Jumlah Tangan: 89
+Frame: 430, Jumlah Tangan: 63
+Frame: 431, Jumlah Tangan: 63
+Frame: 432, Jumlah Tangan: 39
+Frame: 433, Jumlah Tangan: 39
+Frame: 434, Jumlah Tangan: 35
+Frame: 435, Jumlah Tangan: 66
+Frame: 436, Jumlah Tangan: 66
+Frame: 437, Jumlah Tangan: 60
+Frame: 438, Jumlah Tangan: 60
+Frame: 439, Jumlah Tangan: 45
+Frame: 440, Jumlah Tangan: 45
+Frame: 441, Jumlah Tangan: 30
+Frame: 442, Jumlah Tangan: 30
+Frame: 443, Jumlah Tangan: 36
+Frame: 444, Jumlah Tangan: 36
+Frame: 445, Jumlah Tangan: 42
+Frame: 446, Jumlah Tangan: 54
+Frame: 447, Jumlah Tangan: 54
+Frame: 448, Jumlah Tangan: 34
+Frame: 449, Jumlah Tangan: 34
+Frame: 450, Jumlah Tangan: 39
+Frame: 451, Jumlah Tangan: 39
+Frame: 452, Jumlah Tangan: 47
+Frame: 453, Jumlah Tangan: 47
+Frame: 454, Jumlah Tangan: 47
+Frame: 455, Jumlah Tangan: 43
+Frame: 456, Jumlah Tangan: 43
+Frame: 457, Jumlah Tangan: 44
+Frame: 458, Jumlah Tangan: 44
+Frame: 459, Jumlah Tangan: 39
+Frame: 460, Jumlah Tangan: 39
+Frame: 461, Jumlah Tangan: 49
+Frame: 462, Jumlah Tangan: 48
+Frame: 463, Jumlah Tangan: 48
+Frame: 464, Jumlah Tangan: 45
+Frame: 465, Jumlah Tangan: 45
+Frame: 466, Jumlah Tangan: 38
+Frame: 467, Jumlah Tangan: 38
+Frame: 468, Jumlah Tangan: 48
+Frame: 469, Jumlah Tangan: 48
+Frame: 470, Jumlah Tangan: 39
+Frame: 471, Jumlah Tangan: 37
+Frame: 472, Jumlah Tangan: 37
+Frame: 473, Jumlah Tangan: 46
+Frame: 474, Jumlah Tangan: 46
+Frame: 475, Jumlah Tangan: 48
+Frame: 476, Jumlah Tangan: 48
+Frame: 477, Jumlah Tangan: 38
+Frame: 478, Jumlah Tangan: 38
+Frame: 479, Jumlah Tangan: 39
+Frame: 480, Jumlah Tangan: 39
+Frame: 481, Jumlah Tangan: 37
+Frame: 482, Jumlah Tangan: 36
+Frame: 483, Jumlah Tangan: 36
+Frame: 484, Jumlah Tangan: 32
+Frame: 485, Jumlah Tangan: 32
+Frame: 486, Jumlah Tangan: 33
+Frame: 487, Jumlah Tangan: 33
+Frame: 488, Jumlah Tangan: 35
+Frame: 489, Jumlah Tangan: 35
+Frame: 490, Jumlah Tangan: 32
+Frame: 491, Jumlah Tangan: 37
+Frame: 492, Jumlah Tangan: 37
+Frame: 493, Jumlah Tangan: 33
+Frame: 494, Jumlah Tangan: 33
+Frame: 495, Jumlah Tangan: 37
+Frame: 496, Jumlah Tangan: 37
+Frame: 497, Jumlah Tangan: 43
+Frame: 498, Jumlah Tangan: 43
+Frame: 499, Jumlah Tangan: 43
+Frame: 500, Jumlah Tangan: 45
+Frame: 501, Jumlah Tangan: 45
+Frame: 502, Jumlah Tangan: 46
+Frame: 503, Jumlah Tangan: 46
+Frame: 504, Jumlah Tangan: 47
+Frame: 505, Jumlah Tangan: 47
+Frame: 506, Jumlah Tangan: 45
+Frame: 507, Jumlah Tangan: 33
+Frame: 508, Jumlah Tangan: 33
+Frame: 509, Jumlah Tangan: 38
+Frame: 510, Jumlah Tangan: 38
+Frame: 511, Jumlah Tangan: 44
+Frame: 512, Jumlah Tangan: 44
+Frame: 513, Jumlah Tangan: 45
+Frame: 514, Jumlah Tangan: 45
+Frame: 515, Jumlah Tangan: 42
+Frame: 516, Jumlah Tangan: 42
+Frame: 517, Jumlah Tangan: 44
+Frame: 518, Jumlah Tangan: 45
+Frame: 519, Jumlah Tangan: 45
+Frame: 520, Jumlah Tangan: 42
+Frame: 521, Jumlah Tangan: 42
+Frame: 522, Jumlah Tangan: 45
+Frame: 523, Jumlah Tangan: 45
+Frame: 524, Jumlah Tangan: 43
+Frame: 525, Jumlah Tangan: 43
+Frame: 526, Jumlah Tangan: 45
+Frame: 527, Jumlah Tangan: 47
+Frame: 528, Jumlah Tangan: 47
+Frame: 529, Jumlah Tangan: 51
+Frame: 530, Jumlah Tangan: 51
+Frame: 531, Jumlah Tangan: 48
+Frame: 532, Jumlah Tangan: 48
+Frame: 533, Jumlah Tangan: 46
+Frame: 534, Jumlah Tangan: 42
+Frame: 535, Jumlah Tangan: 42
+Frame: 536, Jumlah Tangan: 43
+Frame: 537, Jumlah Tangan: 43
+Frame: 538, Jumlah Tangan: 44
+Frame: 539, Jumlah Tangan: 44
+Frame: 540, Jumlah Tangan: 45
+Frame: 541, Jumlah Tangan: 45
+Frame: 542, Jumlah Tangan: 38
+Frame: 543, Jumlah Tangan: 42
+Frame: 544, Jumlah Tangan: 42
+Frame: 545, Jumlah Tangan: 40
+Frame: 546, Jumlah Tangan: 40
+Frame: 547, Jumlah Tangan: 40
+Frame: 548, Jumlah Tangan: 40
+Frame: 549, Jumlah Tangan: 41
+Frame: 550, Jumlah Tangan: 41
+Frame: 551, Jumlah Tangan: 44
+Frame: 552, Jumlah Tangan: 44
+Frame: 553, Jumlah Tangan: 49
+Frame: 554, Jumlah Tangan: 46
+Frame: 555, Jumlah Tangan: 46
+Frame: 556, Jumlah Tangan: 49
+Frame: 557, Jumlah Tangan: 49
+Frame: 558, Jumlah Tangan: 51
+Frame: 559, Jumlah Tangan: 51
+Frame: 560, Jumlah Tangan: 52
+Frame: 561, Jumlah Tangan: 52
+Frame: 562, Jumlah Tangan: 54
+Frame: 563, Jumlah Tangan: 61
+Frame: 564, Jumlah Tangan: 61
+Frame: 565, Jumlah Tangan: 56
+Frame: 566, Jumlah Tangan: 56
+Frame: 567, Jumlah Tangan: 55
+Frame: 568, Jumlah Tangan: 55
+Frame: 569, Jumlah Tangan: 56
+Frame: 570, Jumlah Tangan: 61
+Frame: 571, Jumlah Tangan: 61
+Frame: 572, Jumlah Tangan: 60
+Frame: 573, Jumlah Tangan: 60
+Frame: 574, Jumlah Tangan: 55
+Frame: 575, Jumlah Tangan: 55
+Frame: 576, Jumlah Tangan: 59
+Frame: 577, Jumlah Tangan: 59
+Frame: 578, Jumlah Tangan: 58
+Frame: 579, Jumlah Tangan: 59
+Frame: 580, Jumlah Tangan: 59
+Frame: 581, Jumlah Tangan: 59
+Frame: 582, Jumlah Tangan: 59
+Frame: 583, Jumlah Tangan: 57
+Frame: 584, Jumlah Tangan: 57
+Frame: 585, Jumlah Tangan: 51
+Frame: 586, Jumlah Tangan: 51
+Frame: 587, Jumlah Tangan: 53
+Frame: 588, Jumlah Tangan: 53
+Frame: 589, Jumlah Tangan: 54
+Frame: 590, Jumlah Tangan: 60
+Frame: 591, Jumlah Tangan: 60
+Frame: 592, Jumlah Tangan: 56
+Frame: 593, Jumlah Tangan: 56
+Frame: 594, Jumlah Tangan: 60
+Frame: 595, Jumlah Tangan: 60
+Frame: 596, Jumlah Tangan: 65
+Frame: 597, Jumlah Tangan: 60
+Frame: 598, Jumlah Tangan: 60
+Frame: 599, Jumlah Tangan: 53
+Frame: 600, Jumlah Tangan: 53
+Frame: 601, Jumlah Tangan: 51
+Frame: 602, Jumlah Tangan: 51
+Frame: 603, Jumlah Tangan: 52
+Frame: 604, Jumlah Tangan: 46
+Frame: 605, Jumlah Tangan: 46
+Frame: 606, Jumlah Tangan: 47
+Frame: 607, Jumlah Tangan: 47
+Frame: 608, Jumlah Tangan: 48
+Frame: 609, Jumlah Tangan: 48
+Frame: 610, Jumlah Tangan: 50
+Frame: 611, Jumlah Tangan: 50
+Frame: 612, Jumlah Tangan: 56
+Frame: 613, Jumlah Tangan: 56
+Frame: 614, Jumlah Tangan: 56
+Frame: 615, Jumlah Tangan: 50
+Frame: 616, Jumlah Tangan: 50
+Frame: 617, Jumlah Tangan: 58
+Frame: 618, Jumlah Tangan: 58
+Frame: 619, Jumlah Tangan: 55
+Frame: 620, Jumlah Tangan: 55
+Frame: 621, Jumlah Tangan: 59
+Frame: 622, Jumlah Tangan: 59
+Frame: 623, Jumlah Tangan: 57
+Frame: 624, Jumlah Tangan: 57
+Frame: 625, Jumlah Tangan: 58
+Frame: 626, Jumlah Tangan: 60
+Frame: 627, Jumlah Tangan: 60
+Frame: 628, Jumlah Tangan: 76
+Frame: 629, Jumlah Tangan: 76
+Frame: 630, Jumlah Tangan: 78
+Frame: 631, Jumlah Tangan: 78
+Frame: 632, Jumlah Tangan: 78
+Frame: 633, Jumlah Tangan: 78
+Frame: 634, Jumlah Tangan: 78
+Frame: 635, Jumlah Tangan: 76
+Frame: 636, Jumlah Tangan: 76
+Frame: 637, Jumlah Tangan: 69
+Frame: 638, Jumlah Tangan: 69
+Frame: 639, Jumlah Tangan: 79
+Frame: 640, Jumlah Tangan: 77
+Frame: 641, Jumlah Tangan: 77
+Frame: 642, Jumlah Tangan: 72
+Frame: 643, Jumlah Tangan: 72
+Frame: 644, Jumlah Tangan: 72
+Frame: 645, Jumlah Tangan: 72
+Frame: 646, Jumlah Tangan: 72
+Frame: 647, Jumlah Tangan: 72
+Frame: 648, Jumlah Tangan: 69
+Frame: 649, Jumlah Tangan: 69
+Frame: 650, Jumlah Tangan: 62
+Frame: 651, Jumlah Tangan: 65
+Frame: 652, Jumlah Tangan: 65
+Frame: 653, Jumlah Tangan: 60
+Frame: 654, Jumlah Tangan: 60
+Frame: 655, Jumlah Tangan: 70
+Frame: 656, Jumlah Tangan: 70
+Frame: 657, Jumlah Tangan: 60
+Frame: 658, Jumlah Tangan: 60
+Frame: 659, Jumlah Tangan: 63
+Frame: 660, Jumlah Tangan: 63
+Frame: 661, Jumlah Tangan: 62
+Frame: 662, Jumlah Tangan: 54
+Frame: 663, Jumlah Tangan: 54
+Frame: 664, Jumlah Tangan: 58
+Frame: 665, Jumlah Tangan: 58
+Frame: 666, Jumlah Tangan: 59
+Frame: 667, Jumlah Tangan: 59
+Frame: 668, Jumlah Tangan: 56
+Frame: 669, Jumlah Tangan: 63
+Frame: 670, Jumlah Tangan: 63
+Frame: 671, Jumlah Tangan: 61
+Frame: 672, Jumlah Tangan: 61
+Frame: 673, Jumlah Tangan: 54
+Frame: 674, Jumlah Tangan: 54
+Frame: 675, Jumlah Tangan: 61
+Frame: 676, Jumlah Tangan: 60
+Frame: 677, Jumlah Tangan: 60
+Frame: 678, Jumlah Tangan: 60
+Frame: 679, Jumlah Tangan: 60
+Frame: 680, Jumlah Tangan: 54
+Frame: 681, Jumlah Tangan: 54
+Frame: 682, Jumlah Tangan: 57
+Frame: 683, Jumlah Tangan: 57
+Frame: 684, Jumlah Tangan: 65
+Frame: 685, Jumlah Tangan: 65
+1	Kamera Live			140
+2	Kamera Live			125
+3	Kamera Live			125
+4	Kamera Live			132
+5	Kamera Live			119
+6	Kamera Live			119
+7	Kamera Live			88
+8	Kamera Live			88
+9	Kamera Live			92
+10	Kamera Live			92
+11	Kamera Live			94
+12	Kamera Live			94
+13	Kamera Live			95
+14	Kamera Live			97
+15	Kamera Live			97
+16	Kamera Live			90
+17	Kamera Live			90
+18	Kamera Live			94
+19	Kamera Live			94
+20	Kamera Live			85
+21	Kamera Live			85
+22	Kamera Live			95
+23	Kamera Live			95
+24	Kamera Live			85
+25	Kamera Live			94
+26	Kamera Live			94
+27	Kamera Live			94
+28	Kamera Live			94
+29	Kamera Live			89
+30	Kamera Live			89
+31	Kamera Live			83
+32	Kamera Live			83
+33	Kamera Live			78
+34	Kamera Live			86
+35	Kamera Live			86
+36	Kamera Live			87
+37	Kamera Live			87
+38	Kamera Live			58
+39	Kamera Live			58
+40	Kamera Live			59
+41	Kamera Live			59
+42	Kamera Live			59
+43	Kamera Live			54
+44	Kamera Live			54
+45	Kamera Live			61
+46	Kamera Live			61
+47	Kamera Live			64
+48	Kamera Live			64
+49	Kamera Live			55
+50	Kamera Live			63
+51	Kamera Live			63
+52	Kamera Live			58
+53	Kamera Live			58
+54	Kamera Live			53
+55	Kamera Live			53
+56	Kamera Live			61
+57	Kamera Live			61
+58	Kamera Live			62
+59	Kamera Live			62
+60	Kamera Live			58
+61	Kamera Live			56
+62	Kamera Live			56
+63	Kamera Live			59
+64	Kamera Live			59
+65	Kamera Live			56
+66	Kamera Live			56
+67	Kamera Live			52
+68	Kamera Live			52
+69	Kamera Live			51
+70	Kamera Live			56
+71	Kamera Live			56
+72	Kamera Live			58
+73	Kamera Live			58
+74	Kamera Live			58
+75	Kamera Live			58
+76	Kamera Live			54
+77	Kamera Live			57
+78	Kamera Live			57
+79	Kamera Live			60
+80	Kamera Live			60
+81	Kamera Live			57
+82	Kamera Live			57
+83	Kamera Live			62
+84	Kamera Live			62
+85	Kamera Live			69
+86	Kamera Live			59
+87	Kamera Live			59
+88	Kamera Live			61
+89	Kamera Live			61
+90	Kamera Live			62
+91	Kamera Live			62
+92	Kamera Live			67
+93	Kamera Live			67
+94	Kamera Live			68
+95	Kamera Live			68
+96	Kamera Live			79
+97	Kamera Live			65
+98	Kamera Live			65
+99	Kamera Live			69
+100	Kamera Live			69
+101	Kamera Live			65
+102	Kamera Live			65
+103	Kamera Live			72
+104	Kamera Live			72
+105	Kamera Live			82
+106	Kamera Live			77
+107	Kamera Live			77
+108	Kamera Live			74
+109	Kamera Live			74
+110	Kamera Live			87
+111	Kamera Live			87
+112	Kamera Live			83
+113	Kamera Live			78
+114	Kamera Live			78
+115	Kamera Live			81
+116	Kamera Live			81
+117	Kamera Live			73
+118	Kamera Live			73
+119	Kamera Live			61
+120	Kamera Live			61
+121	Kamera Live			72
+122	Kamera Live			69
+123	Kamera Live			69
+124	Kamera Live			82
+125	Kamera Live			82
+126	Kamera Live			93
+127	Kamera Live			93
+128	Kamera Live			76
+129	Kamera Live			76
+130	Kamera Live			64
+131	Kamera Live			64
+132	Kamera Live			79
+133	Kamera Live			72
+134	Kamera Live			72
+135	Kamera Live			74
+136	Kamera Live			74
+137	Kamera Live			75
+138	Kamera Live			75
+139	Kamera Live			68
+140	Kamera Live			68
+141	Kamera Live			75
+142	Kamera Live			69
+143	Kamera Live			69
+144	Kamera Live			81
+145	Kamera Live			81
+146	Kamera Live			87
+147	Kamera Live			87
+148	Kamera Live			80
+149	Kamera Live			89
+150	Kamera Live			89
+151	Kamera Live			71
+152	Kamera Live			71
+153	Kamera Live			66
+154	Kamera Live			66
+155	Kamera Live			69
+156	Kamera Live			69
+157	Kamera Live			78
+158	Kamera Live			73
+159	Kamera Live			73
+160	Kamera Live			68
+161	Kamera Live			68
+162	Kamera Live			68
+163	Kamera Live			68
+164	Kamera Live			77
+165	Kamera Live			77
+166	Kamera Live			73
+167	Kamera Live			73
+168	Kamera Live			70
+169	Kamera Live			70
+170	Kamera Live			70
+171	Kamera Live			75
+172	Kamera Live			75
+173	Kamera Live			68
+174	Kamera Live			68
+175	Kamera Live			67
+176	Kamera Live			67
+177	Kamera Live			67
+178	Kamera Live			66
+179	Kamera Live			66
+180	Kamera Live			63
+181	Kamera Live			63
+182	Kamera Live			58
+183	Kamera Live			67
+184	Kamera Live			67
+185	Kamera Live			52
+186	Kamera Live			52
+187	Kamera Live			56
+188	Kamera Live			56
+189	Kamera Live			62
+190	Kamera Live			62
+191	Kamera Live			58
+192	Kamera Live			58
+193	Kamera Live			72
+194	Kamera Live			84
+195	Kamera Live			84
+196	Kamera Live			77
+197	Kamera Live			77
+198	Kamera Live			85
+199	Kamera Live			85
+200	Kamera Live			77
+201	Kamera Live			77
+202	Kamera Live			105
+203	Kamera Live			105
+204	Kamera Live			81
+205	Kamera Live			75
+206	Kamera Live			75
+207	Kamera Live			72
+208	Kamera Live			72
+209	Kamera Live			79
+210	Kamera Live			79
+211	Kamera Live			83
+212	Kamera Live			81
+213	Kamera Live			81
+214	Kamera Live			81
+215	Kamera Live			81
+216	Kamera Live			83
+217	Kamera Live			83
+218	Kamera Live			83
+219	Kamera Live			81
+220	Kamera Live			81
+221	Kamera Live			84
+222	Kamera Live			84
+223	Kamera Live			91
+224	Kamera Live			91
+225	Kamera Live			82
+226	Kamera Live			82
+227	Kamera Live			70
+228	Kamera Live			70
+229	Kamera Live			71
+230	Kamera Live			83
+231	Kamera Live			83
+232	Kamera Live			79
+233	Kamera Live			79
+234	Kamera Live			95
+235	Kamera Live			95
+236	Kamera Live			77
+237	Kamera Live			77
+238	Kamera Live			77
+239	Kamera Live			77
+240	Kamera Live			75
+241	Kamera Live			72
+242	Kamera Live			72
+243	Kamera Live			89
+244	Kamera Live			89
+245	Kamera Live			81
+246	Kamera Live			81
+247	Kamera Live			82
+248	Kamera Live			71
+249	Kamera Live			71
+250	Kamera Live			75
+251	Kamera Live			75
+252	Kamera Live			90
+253	Kamera Live			90
+254	Kamera Live			86
+255	Kamera Live			79
+256	Kamera Live			79
+257	Kamera Live			88
+258	Kamera Live			88
+259	Kamera Live			89
+260	Kamera Live			89
+261	Kamera Live			91
+262	Kamera Live			91
+263	Kamera Live			107
+264	Kamera Live			107
+265	Kamera Live			91
+266	Kamera Live			94
+267	Kamera Live			94
+268	Kamera Live			92
+269	Kamera Live			92
+270	Kamera Live			70
+271	Kamera Live			70
+272	Kamera Live			72
+273	Kamera Live			72
+274	Kamera Live			71
+275	Kamera Live			71
+276	Kamera Live			61
+277	Kamera Live			70
+278	Kamera Live			70
+279	Kamera Live			74
+280	Kamera Live			74
+281	Kamera Live			78
+282	Kamera Live			78
+283	Kamera Live			87
+284	Kamera Live			82
+285	Kamera Live			82
+286	Kamera Live			94
+287	Kamera Live			94
+288	Kamera Live			95
+289	Kamera Live			95
+290	Kamera Live			87
+291	Kamera Live			83
+292	Kamera Live			83
+293	Kamera Live			76
+294	Kamera Live			76
+295	Kamera Live			79
+296	Kamera Live			79
+297	Kamera Live			80
+298	Kamera Live			80
+299	Kamera Live			103
+300	Kamera Live			103
+301	Kamera Live			77
+302	Kamera Live			97
+303	Kamera Live			97
+304	Kamera Live			95
+305	Kamera Live			95
+306	Kamera Live			87
+307	Kamera Live			87
+308	Kamera Live			84
+309	Kamera Live			84
+310	Kamera Live			87
+311	Kamera Live			87
+312	Kamera Live			90
+313	Kamera Live			92
+314	Kamera Live			92
+315	Kamera Live			104
+316	Kamera Live			104
+317	Kamera Live			98
+318	Kamera Live			98
+319	Kamera Live			84
+320	Kamera Live			77
+321	Kamera Live			77
+322	Kamera Live			77
+323	Kamera Live			77
+324	Kamera Live			80
+325	Kamera Live			80
+326	Kamera Live			82
+327	Kamera Live			84
+328	Kamera Live			84
+329	Kamera Live			84
+330	Kamera Live			84
+331	Kamera Live			75
+332	Kamera Live			75
+333	Kamera Live			77
+334	Kamera Live			77
+335	Kamera Live			73
+336	Kamera Live			73
+337	Kamera Live			74
+338	Kamera Live			91
+339	Kamera Live			91
+340	Kamera Live			79
+341	Kamera Live			79
+342	Kamera Live			74
+343	Kamera Live			74
+344	Kamera Live			80
+345	Kamera Live			80
+346	Kamera Live			76
+347	Kamera Live			76
+348	Kamera Live			72
+349	Kamera Live			80
+350	Kamera Live			80
+351	Kamera Live			80
+352	Kamera Live			80
+353	Kamera Live			80
+354	Kamera Live			80
+355	Kamera Live			77
+356	Kamera Live			80
+357	Kamera Live			80
+358	Kamera Live			70
+359	Kamera Live			70
+360	Kamera Live			71
+361	Kamera Live			71
+362	Kamera Live			74
+363	Kamera Live			76
+364	Kamera Live			76
+365	Kamera Live			82
+366	Kamera Live			82
+367	Kamera Live			88
+368	Kamera Live			88
+369	Kamera Live			81
+370	Kamera Live			81
+371	Kamera Live			85
+372	Kamera Live			85
+373	Kamera Live			80
+374	Kamera Live			70
+375	Kamera Live			70
+376	Kamera Live			68
+377	Kamera Live			68
+378	Kamera Live			70
+379	Kamera Live			70
+380	Kamera Live			74
+381	Kamera Live			74
+382	Kamera Live			71
+383	Kamera Live			71
+384	Kamera Live			74
+385	Kamera Live			83
+386	Kamera Live			83
+387	Kamera Live			82
+388	Kamera Live			82
+389	Kamera Live			78
+390	Kamera Live			77
+391	Kamera Live			77
+392	Kamera Live			70
+393	Kamera Live			70
+394	Kamera Live			91
+395	Kamera Live			91
+396	Kamera Live			79
+397	Kamera Live			93
+398	Kamera Live			93
+399	Kamera Live			94
+400	Kamera Live			94
+401	Kamera Live			88
+402	Kamera Live			88
+403	Kamera Live			74
+404	Kamera Live			74
+405	Kamera Live			79
+406	Kamera Live			79
+407	Kamera Live			69
+408	Kamera Live			69
+409	Kamera Live			57
+410	Kamera Live			73
+411	Kamera Live			73
+412	Kamera Live			64
+413	Kamera Live			64
+414	Kamera Live			61
+415	Kamera Live			61
+416	Kamera Live			57
+417	Kamera Live			57
+418	Kamera Live			62
+419	Kamera Live			50
+420	Kamera Live			50
+421	Kamera Live			50
+422	Kamera Live			50
+423	Kamera Live			52
+424	Kamera Live			52
+425	Kamera Live			44
+426	Kamera Live			45
+427	Kamera Live			45
+428	Kamera Live			47
+429	Kamera Live			47
+430	Kamera Live			53
+431	Kamera Live			53
+432	Kamera Live			46
+433	Kamera Live			62
+434	Kamera Live			62
+435	Kamera Live			51
+436	Kamera Live			51
+437	Kamera Live			56
+438	Kamera Live			56
+439	Kamera Live			42
+440	Kamera Live			42
+441	Kamera Live			47
+442	Kamera Live			47
+443	Kamera Live			46
+444	Kamera Live			46
+445	Kamera Live			41
+446	Kamera Live			55
+447	Kamera Live			55
+448	Kamera Live			58
+449	Kamera Live			58
+450	Kamera Live			75
+451	Kamera Live			75
+452	Kamera Live			84
+453	Kamera Live			84
+454	Kamera Live			114
+455	Kamera Live			125
+456	Kamera Live			125
+457	Kamera Live			142
+458	Kamera Live			142
+459	Kamera Live			154
+460	Kamera Live			154
+461	Kamera Live			135
+462	Kamera Live			113
+463	Kamera Live			113
+464	Kamera Live			99
+465	Kamera Live			99
+466	Kamera Live			117
+467	Kamera Live			117
+468	Kamera Live			104
+469	Kamera Live			104
+470	Kamera Live			104
+471	Kamera Live			92
+472	Kamera Live			92
+473	Kamera Live			95
+474	Kamera Live			95
+475	Kamera Live			88
+476	Kamera Live			88
+477	Kamera Live			88
+478	Kamera Live			88
+479	Kamera Live			78
+480	Kamera Live			78
+481	Kamera Live			74
+482	Kamera Live			88
+483	Kamera Live			88
+484	Kamera Live			92
+485	Kamera Live			92
+486	Kamera Live			104
+487	Kamera Live			104
+488	Kamera Live			112
+489	Kamera Live			112
+490	Kamera Live			131
+491	Kamera Live			121
+492	Kamera Live			121
+493	Kamera Live			118
+494	Kamera Live			118
+495	Kamera Live			93
+496	Kamera Live			93
+497	Kamera Live			96
+498	Kamera Live			101
+499	Kamera Live			101
+500	Kamera Live			112
+501	Kamera Live			112
+502	Kamera Live			94
+503	Kamera Live			94
+504	Kamera Live			108
+505	Kamera Live			108
+506	Kamera Live			103
+507	Kamera Live			94
+508	Kamera Live			94
+509	Kamera Live			95
+510	Kamera Live			95
+511	Kamera Live			75
+512	Kamera Live			75
+513	Kamera Live			64
+514	Kamera Live			64
+515	Kamera Live			74
+516	Kamera Live			74
+517	Kamera Live			60
+518	Kamera Live			60
+519	Kamera Live			60
+520	Kamera Live			94
+521	Kamera Live			94
+522	Kamera Live			112
+523	Kamera Live			112
+524	Kamera Live			109
+525	Kamera Live			109
+526	Kamera Live			96
+527	Kamera Live			76
+528	Kamera Live			76
+529	Kamera Live			74
+530	Kamera Live			74
+531	Kamera Live			77
+532	Kamera Live			77
+533	Kamera Live			83
+534	Kamera Live			98
+535	Kamera Live			98
+536	Kamera Live			120
+537	Kamera Live			120
+538	Kamera Live			97
+539	Kamera Live			97
+540	Kamera Live			100
+541	Kamera Live			97
+542	Kamera Live			97
+543	Kamera Live			87
+544	Kamera Live			87
+545	Kamera Live			87
+546	Kamera Live			87
+547	Kamera Live			81
+548	Kamera Live			81
+549	Kamera Live			70
+550	Kamera Live			70
+551	Kamera Live			90
+552	Kamera Live			90
+553	Kamera Live			112
+554	Kamera Live			141
+555	Kamera Live			141
+556	Kamera Live			78
+557	Kamera Live			78
+558	Kamera Live			83
+559	Kamera Live			83
+560	Kamera Live			68
+561	Kamera Live			68
+562	Kamera Live			62
+563	Kamera Live			55
+564	Kamera Live			55
+565	Kamera Live			68
+566	Kamera Live			68
+567	Kamera Live			58
+568	Kamera Live			58
+569	Kamera Live			86
+570	Kamera Live			84
+571	Kamera Live			84
+572	Kamera Live			121
+573	Kamera Live			121
+574	Kamera Live			95
+575	Kamera Live			95
+576	Kamera Live			58
+577	Kamera Live			60
+578	Kamera Live			60
+579	Kamera Live			62
+580	Kamera Live			62
+581	Kamera Live			68
+582	Kamera Live			68
+583	Kamera Live			54
+584	Kamera Live			54
+585	Kamera Live			52
+586	Kamera Live			52
+587	Kamera Live			104
+588	Kamera Live			104
+589	Kamera Live			87
+590	Kamera Live			134
+591	Kamera Live			134
+592	Kamera Live			68
+593	Kamera Live			68
+594	Kamera Live			79
+595	Kamera Live			79
+596	Kamera Live			75
+597	Kamera Live			58
+598	Kamera Live			58
+599	Kamera Live			59
+600	Kamera Live			59
+601	Kamera Live			59
+602	Kamera Live			59
+603	Kamera Live			52
+604	Kamera Live			55
+605	Kamera Live			55
+606	Kamera Live			94
+607	Kamera Live			94
+608	Kamera Live			77
+609	Kamera Live			77
+610	Kamera Live			77
+611	Kamera Live			77
+612	Kamera Live			57
+613	Kamera Live			51
+614	Kamera Live			51
+615	Kamera Live			50
+616	Kamera Live			50
+617	Kamera Live			53
+618	Kamera Live			53
+619	Kamera Live			65
+620	Kamera Live			65
+621	Kamera Live			68
+622	Kamera Live			68
+623	Kamera Live			65
+624	Kamera Live			65
+625	Kamera Live			103
+626	Kamera Live			112
+627	Kamera Live			112
+628	Kamera Live			135
+629	Kamera Live			135
+630	Kamera Live			92
+631	Kamera Live			92
+632	Kamera Live			64
+633	Kamera Live			61
+634	Kamera Live			61
+635	Kamera Live			70
+636	Kamera Live			70
+637	Kamera Live			54
+638	Kamera Live			54
+639	Kamera Live			65
+640	Kamera Live			69
+641	Kamera Live			69
+642	Kamera Live			74
+643	Kamera Live			74
+644	Kamera Live			84
+645	Kamera Live			84
+646	Kamera Live			127
+647	Kamera Live			127
+648	Kamera Live			76
+649	Kamera Live			71
+650	Kamera Live			71
+651	Kamera Live			63
+652	Kamera Live			63
+653	Kamera Live			64
+654	Kamera Live			64
+655	Kamera Live			79
+656	Kamera Live			79
+657	Kamera Live			70
+658	Kamera Live			70
+659	Kamera Live			54
+660	Kamera Live			54
+661	Kamera Live			92
+662	Kamera Live			125
+663	Kamera Live			125
+664	Kamera Live			73
+665	Kamera Live			73
+666	Kamera Live			64
+667	Kamera Live			64
+668	Kamera Live			75
+669	Kamera Live			59
+670	Kamera Live			59
+671	Kamera Live			53
+672	Kamera Live			53
+673	Kamera Live			55
+674	Kamera Live			55
+675	Kamera Live			61
+676	Kamera Live			55
+677	Kamera Live			55
+678	Kamera Live			57
+679	Kamera Live			57
+680	Kamera Live			49
+681	Kamera Live			49
+682	Kamera Live			55
+683	Kamera Live			55
+684	Kamera Live			58
+685	Kamera Live			50
+686	Kamera Live			50
+687	Kamera Live			53
+688	Kamera Live			53
+689	Kamera Live			52
+690	Kamera Live			52
+691	Kamera Live			57
+692	Kamera Live			57
+693	Kamera Live			51
+694	Kamera Live			51
+695	Kamera Live			61
+696	Kamera Live			61
+697	Kamera Live			51
+698	Kamera Live			47
+699	Kamera Live			47
+700	Kamera Live			58
+701	Kamera Live			58
+702	Kamera Live			54
+703	Kamera Live			54
+704	Kamera Live			56
+705	Kamera Live			54
+706	Kamera Live			54
+707	Kamera Live			50
+708	Kamera Live			50
+709	Kamera Live			46
+710	Kamera Live			46
+711	Kamera Live			53
+712	Kamera Live			52
+713	Kamera Live			52
+714	Kamera Live			51
+715	Kamera Live			51
+716	Kamera Live			49
+717	Kamera Live			49
+718	Kamera Live			49
+719	Kamera Live			49
+720	Kamera Live			56
+721	Kamera Live			54
+722	Kamera Live			54
+723	Kamera Live			51
+724	Kamera Live			51
+725	Kamera Live			52
+726	Kamera Live			52
+727	Kamera Live			48
+728	Kamera Live			48
+729	Kamera Live			54
+730	Kamera Live			54
+731	Kamera Live			59
+732	Kamera Live			59
+733	Kamera Live			57
+734	Kamera Live			57
+735	Kamera Live			57
+736	Kamera Live			61
+737	Kamera Live			61
+738	Kamera Live			56
+739	Kamera Live			56
+740	Kamera Live			61
+741	Kamera Live			59
+742	Kamera Live			59
+743	Kamera Live			55
+744	Kamera Live			55
+745	Kamera Live			64
+746	Kamera Live			64
+747	Kamera Live			56
+748	Kamera Live			52
+749	Kamera Live			52
+750	Kamera Live			58
+751	Kamera Live			58
+752	Kamera Live			54
+753	Kamera Live			54
+754	Kamera Live			60
+755	Kamera Live			60
+756	Kamera Live			53
+757	Kamera Live			53
+758	Kamera Live			53
+759	Kamera Live			60
+760	Kamera Live			60
+761	Kamera Live			55
+762	Kamera Live			55
+763	Kamera Live			61
+764	Kamera Live			61
+765	Kamera Live			55
+766	Kamera Live			55
+767	Kamera Live			56
+768	Kamera Live			56
+769	Kamera Live			58
+770	Kamera Live			59
+771	Kamera Live			59
+772	Kamera Live			55
+773	Kamera Live			55
+774	Kamera Live			60
+775	Kamera Live			60
+776	Kamera Live			58
+777	Kamera Live			60
+778	Kamera Live			60
+779	Kamera Live			58
+780	Kamera Live			58
+781	Kamera Live			60
+782	Kamera Live			60
+783	Kamera Live			54
+784	Kamera Live			65
+785	Kamera Live			65
+786	Kamera Live			60
+787	Kamera Live			60
+788	Kamera Live			67
+789	Kamera Live			67
+790	Kamera Live			66
+791	Kamera Live			66
+792	Kamera Live			65
+793	Kamera Live			62
+794	Kamera Live			62
+795	Kamera Live			60
+796	Kamera Live			60
+797	Kamera Live			68
+798	Kamera Live			68
+799	Kamera Live			64
+800	Kamera Live			64
+801	Kamera Live			70
+802	Kamera Live			70
+803	Kamera Live			67
+804	Kamera Live			71
+805	Kamera Live			71
+806	Kamera Live			76
+807	Kamera Live			76
+808	Kamera Live			69
+809	Kamera Live			69
+810	Kamera Live			61
+811	Kamera Live			76
+812	Kamera Live			76
+813	Kamera Live			66
+814	Kamera Live			66
+815	Kamera Live			64
+816	Kamera Live			64
+817	Kamera Live			66
+818	Kamera Live			69
+819	Kamera Live			69
+820	Kamera Live			72
+821	Kamera Live			72
+822	Kamera Live			69
+823	Kamera Live			69
+824	Kamera Live			73
+825	Kamera Live			73
+826	Kamera Live			71
+827	Kamera Live			71
+828	Kamera Live			66
+829	Kamera Live			72
+830	Kamera Live			72
+831	Kamera Live			65
+832	Kamera Live			65
+833	Kamera Live			64
+834	Kamera Live			64
+835	Kamera Live			67
+836	Kamera Live			67
+837	Kamera Live			56
+838	Kamera Live			56
+839	Kamera Live			62
+840	Kamera Live			59
+841	Kamera Live			59
+842	Kamera Live			63
+843	Kamera Live			63
+844	Kamera Live			68
+845	Kamera Live			68
+846	Kamera Live			83
+847	Kamera Live			73
+848	Kamera Live			73
+849	Kamera Live			69
+850	Kamera Live			69
+851	Kamera Live			82
+852	Kamera Live			82
+853	Kamera Live			79
+854	Kamera Live			68
+855	Kamera Live			68
+856	Kamera Live			75
+857	Kamera Live			75
+858	Kamera Live			70
+859	Kamera Live			70
+860	Kamera Live			67
+861	Kamera Live			67
+862	Kamera Live			79
+863	Kamera Live			79
+864	Kamera Live			80
+865	Kamera Live			96
+866	Kamera Live			96
+867	Kamera Live			88
+868	Kamera Live			88
+869	Kamera Live			85
+870	Kamera Live			85
+871	Kamera Live			61
+872	Kamera Live			61
+873	Kamera Live			72
+874	Kamera Live			72
+875	Kamera Live			69
+876	Kamera Live			77
+877	Kamera Live			77
+878	Kamera Live			78
+879	Kamera Live			78
+880	Kamera Live			74
+881	Kamera Live			74
+882	Kamera Live			77
+883	Kamera Live			68
+884	Kamera Live			68
+885	Kamera Live			70
+886	Kamera Live			70
+887	Kamera Live			81
+888	Kamera Live			81
+889	Kamera Live			86
+890	Kamera Live			76
+891	Kamera Live			76
+892	Kamera Live			63
+893	Kamera Live			63
+894	Kamera Live			65
+895	Kamera Live			65
+896	Kamera Live			69
+897	Kamera Live			69
+898	Kamera Live			71
+899	Kamera Live			71
+900	Kamera Live			83
+901	Kamera Live			88
+902	Kamera Live			88
+903	Kamera Live			75
+904	Kamera Live			75
+905	Kamera Live			77
+906	Kamera Live			77
+907	Kamera Live			84
+908	Kamera Live			84
+909	Kamera Live			77
+910	Kamera Live			77
+911	Kamera Live			83
+912	Kamera Live			84
+913	Kamera Live			84
+914	Kamera Live			84
+915	Kamera Live			84
+916	Kamera Live			92
+917	Kamera Live			92
+918	Kamera Live			85
+919	Kamera Live			84
+920	Kamera Live			84
+921	Kamera Live			83
+922	Kamera Live			83
+923	Kamera Live			83
+924	Kamera Live			83
+925	Kamera Live			87
+926	Kamera Live			94
+927	Kamera Live			94
+928	Kamera Live			81
+929	Kamera Live			81
+930	Kamera Live			83
+931	Kamera Live			83
+932	Kamera Live			80
+933	Kamera Live			80
+934	Kamera Live			84
+935	Kamera Live			84
+936	Kamera Live			91
+937	Kamera Live			80
+938	Kamera Live			80
+939	Kamera Live			77
+940	Kamera Live			77
+941	Kamera Live			86
+942	Kamera Live			86
+943	Kamera Live			83
+944	Kamera Live			83
+945	Kamera Live			91
+946	Kamera Live			91
+947	Kamera Live			72
+948	Kamera Live			78
+949	Kamera Live			78
+950	Kamera Live			80
+951	Kamera Live			80
+952	Kamera Live			98
+953	Kamera Live			98
+954	Kamera Live			93
+955	Kamera Live			110
+956	Kamera Live			110
+957	Kamera Live			105
+958	Kamera Live			105
+959	Kamera Live			90
+960	Kamera Live			90
+961	Kamera Live			77
+962	Kamera Live			95
+963	Kamera Live			95
+964	Kamera Live			76
+965	Kamera Live			76
+966	Kamera Live			75
+967	Kamera Live			75
+968	Kamera Live			75
+969	Kamera Live			75
+970	Kamera Live			55
+971	Kamera Live			55
+972	Kamera Live			58
+973	Kamera Live			62
+974	Kamera Live			62
+975	Kamera Live			64
+976	Kamera Live			64
+977	Kamera Live			67
+978	Kamera Live			67
+979	Kamera Live			74
+980	Kamera Live			74
+981	Kamera Live			78
+982	Kamera Live			78
+983	Kamera Live			71
+984	Kamera Live			85
+985	Kamera Live			85
+986	Kamera Live			79
+987	Kamera Live			79
+988	Kamera Live			82
+989	Kamera Live			82
+990	Kamera Live			80
+991	Kamera Live			79
+992	Kamera Live			79
+993	Kamera Live			78
+994	Kamera Live			78
+995	Kamera Live			80
+996	Kamera Live			80
+997	Kamera Live			84
+998	Kamera Live			85
+999	Kamera Live			85
+1000	Kamera Live			84
+1001	Kamera Live			84
+1002	Kamera Live			77
+1003	Kamera Live			77
+1004	Kamera Live			82
+1005	Kamera Live			82
+1006	Kamera Live			80
+1007	Kamera Live			80
+1008	Kamera Live			84
+1009	Kamera Live			84
+1010	Kamera Live			84
+1011	Kamera Live			78
+1012	Kamera Live			78
+1013	Kamera Live			75
+1014	Kamera Live			75
+1015	Kamera Live			77
+1016	Kamera Live			77
+1017	Kamera Live			77
+1018	Kamera Live			87
+1019	Kamera Live			87
+1020	Kamera Live			90
+1021	Kamera Live			90
+1022	Kamera Live			94
+1023	Kamera Live			94
+1024	Kamera Live			77
+1025	Kamera Live			76
+1026	Kamera Live			76
+1027	Kamera Live			69
+1028	Kamera Live			69
+1029	Kamera Live			69
+1030	Kamera Live			69
+1031	Kamera Live			67
+1032	Kamera Live			67
+1033	Kamera Live			65
+1034	Kamera Live			66
+1035	Kamera Live			66
+1036	Kamera Live			62
+1037	Kamera Live			62
+1038	Kamera Live			64
+1039	Kamera Live			64
+1040	Kamera Live			59
+1041	Kamera Live			59
+1042	Kamera Live			66
+1043	Kamera Live			66
+1044	Kamera Live			73
+1045	Kamera Live			77
+1046	Kamera Live			77
+1047	Kamera Live			71
+1048	Kamera Live			71
+1049	Kamera Live			62
+1050	Kamera Live			62
+1051	Kamera Live			71
+1052	Kamera Live			71
+1053	Kamera Live			68
+1054	Kamera Live			74
+1055	Kamera Live			74
+1056	Kamera Live			88
+1057	Kamera Live			88
+1058	Kamera Live			81
+1059	Kamera Live			81
+1060	Kamera Live			70
+1061	Kamera Live			82
+1062	Kamera Live			82
+1063	Kamera Live			74
+1064	Kamera Live			74
+1065	Kamera Live			76
+1066	Kamera Live			76
+1067	Kamera Live			68
+1068	Kamera Live			68
+1069	Kamera Live			71
+1070	Kamera Live			76
+1071	Kamera Live			76
+1072	Kamera Live			78
+1073	Kamera Live			78
+1074	Kamera Live			75
+1075	Kamera Live			75
+1076	Kamera Live			81
+1077	Kamera Live			81
+1078	Kamera Live			84
+1079	Kamera Live			84
+1080	Kamera Live			69
+1081	Kamera Live			47
+1082	Kamera Live			47
+1083	Kamera Live			60
+1084	Kamera Live			60
+1085	Kamera Live			58
+1086	Kamera Live			58
+1087	Kamera Live			51
+1088	Kamera Live			51
+1089	Kamera Live			56
+1090	Kamera Live			52
+1091	Kamera Live			52
+1092	Kamera Live			51
+1093	Kamera Live			51
+1094	Kamera Live			53
+1095	Kamera Live			53
+1096	Kamera Live			58
+1097	Kamera Live			59
+1098	Kamera Live			59
+1099	Kamera Live			56
+1100	Kamera Live			56
+1101	Kamera Live			52
+1102	Kamera Live			52
+1103	Kamera Live			49
+1104	Kamera Live			49
+1105	Kamera Live			51
+1106	Kamera Live			46
+1107	Kamera Live			46
+1108	Kamera Live			54
+1109	Kamera Live			54
+1110	Kamera Live			44
+1111	Kamera Live			44
+1112	Kamera Live			42
+1113	Kamera Live			42
+1114	Kamera Live			43
+1115	Kamera Live			43
+1116	Kamera Live			47
+1117	Kamera Live			46
+1118	Kamera Live			46
+1119	Kamera Live			47
+1120	Kamera Live			47
+1121	Kamera Live			53
+1122	Kamera Live			53
+1123	Kamera Live			48
+1124	Kamera Live			48
+1125	Kamera Live			48
+1126	Kamera Live			47
+1127	Kamera Live			47
+1128	Kamera Live			42
+1129	Kamera Live			42
+1130	Kamera Live			46
+1131	Kamera Live			46
+1132	Kamera Live			46
+1133	Kamera Live			49
+1134	Kamera Live			49
+1135	Kamera Live			50
+1136	Kamera Live			50
+1137	Kamera Live			54
+1138	Kamera Live			54
+1139	Kamera Live			55
+1140	Kamera Live			55
+1141	Kamera Live			53
+1142	Kamera Live			56
+1143	Kamera Live			56
+1144	Kamera Live			59
+1145	Kamera Live			59
+1146	Kamera Live			61
+1147	Kamera Live			61
+1148	Kamera Live			52
+1149	Kamera Live			52
+1150	Kamera Live			58
+1151	Kamera Live			58
+1152	Kamera Live			57
+1153	Kamera Live			68
+1154	Kamera Live			68
+1155	Kamera Live			62
+1156	Kamera Live			62
+1157	Kamera Live			71
+1158	Kamera Live			71
+1159	Kamera Live			63
+1160	Kamera Live			63
+1161	Kamera Live			67
+1162	Kamera Live			66
+1163	Kamera Live			66
+1164	Kamera Live			65
+1165	Kamera Live			65
+1166	Kamera Live			45
+1167	Kamera Live			47
+1168	Kamera Live			47
+1169	Kamera Live			51
+1170	Kamera Live			51
+1171	Kamera Live			49
+1172	Kamera Live			51
+1173	Kamera Live			51
+1174	Kamera Live			46
+1175	Kamera Live			46
+1176	Kamera Live			47
+1177	Kamera Live			47
+1178	Kamera Live			53
+1179	Kamera Live			53
+1180	Kamera Live			58
+1181	Kamera Live			58
+1182	Kamera Live			51
+1183	Kamera Live			48
+1184	Kamera Live			48
+1185	Kamera Live			49
+1186	Kamera Live			49
+1187	Kamera Live			46
+1188	Kamera Live			46
+1189	Kamera Live			45
+1190	Kamera Live			45
+1191	Kamera Live			46
+1192	Kamera Live			47
+1193	Kamera Live			47
+1194	Kamera Live			48
+1195	Kamera Live			48
+1196	Kamera Live			50
+1197	Kamera Live			50
+1198	Kamera Live			51
+1199	Kamera Live			50
+1200	Kamera Live			50
+1201	Kamera Live			49
+1202	Kamera Live			49
+1203	Kamera Live			46
+1204	Kamera Live			46
+1205	Kamera Live			47
+1206	Kamera Live			47
+1207	Kamera Live			51
+1208	Kamera Live			49
+1209	Kamera Live			49
+1210	Kamera Live			46
+1211	Kamera Live			46
+1212	Kamera Live			48
+1213	Kamera Live			48
+1214	Kamera Live			51
+1215	Kamera Live			51
+1216	Kamera Live			51
+1217	Kamera Live			51
+1218	Kamera Live			48
+1219	Kamera Live			49
+1220	Kamera Live			49
+1221	Kamera Live			48
+1222	Kamera Live			48
+1223	Kamera Live			46
+1224	Kamera Live			46
+1225	Kamera Live			56
+1226	Kamera Live			52
+1227	Kamera Live			52
+1228	Kamera Live			48
+1229	Kamera Live			48
+1230	Kamera Live			52
+1231	Kamera Live			52
+1232	Kamera Live			49
+1233	Kamera Live			54
+1234	Kamera Live			54
+1235	Kamera Live			49
+1236	Kamera Live			49
+1237	Kamera Live			52
+1238	Kamera Live			52
+1239	Kamera Live			54
+1240	Kamera Live			54
+1241	Kamera Live			51
+1242	Kamera Live			51
+1243	Kamera Live			52
+1244	Kamera Live			55
+1245	Kamera Live			55
+1246	Kamera Live			50
+1247	Kamera Live			50
+1248	Kamera Live			43
+1249	Kamera Live			43
+1250	Kamera Live			44
+1251	Kamera Live			44
+1252	Kamera Live			43
+1253	Kamera Live			43
+1254	Kamera Live			49
+1255	Kamera Live			50
+1256	Kamera Live			50
+1257	Kamera Live			42
+1258	Kamera Live			42
+1259	Kamera Live			46
+1260	Kamera Live			46
+1261	Kamera Live			49
+1262	Kamera Live			41
+1263	Kamera Live			41
+1264	Kamera Live			47
+1265	Kamera Live			47
+1266	Kamera Live			47
+1267	Kamera Live			47
+1268	Kamera Live			52
+1269	Kamera Live			52
+1270	Kamera Live			52
+1271	Kamera Live			46
+1272	Kamera Live			46
+1273	Kamera Live			52
+1274	Kamera Live			52
+1275	Kamera Live			50
+1276	Kamera Live			50
+1277	Kamera Live			53
+1278	Kamera Live			53
+1279	Kamera Live			48
+1280	Kamera Live			50
+1281	Kamera Live			50
+1282	Kamera Live			49
+1283	Kamera Live			49
+1284	Kamera Live			46
+1285	Kamera Live			46
+1286	Kamera Live			49
+1287	Kamera Live			49
+1288	Kamera Live			47
+Gambar	Gambar			258
+Deteksi: Gambar, Jumlah Tangan: 242
+Deteksi: Gambar, Jumlah Tangan: 242
+Deteksi: Gambar, Jumlah Tangan: 8
+Deteksi: Gambar, Jumlah Tangan: 8
+Deteksi: Gambar, Jumlah Tangan: 1
+Deteksi: Gambar, Jumlah Tangan: 40
