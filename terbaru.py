@@ -61,7 +61,7 @@ def detect_and_mark_objects_in_live_camera():
     cv2.destroyAllWindows()
 
 # Contoh Penggunaan
-image_path = 'coba.jpg'
+image_path = 'dataset/coba2.jpg'
 video_path = 'deteksi_video.mp4'
 
 # Mendeteksi dan menandai objek pada gambar
