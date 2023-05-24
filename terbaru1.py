@@ -26,5 +26,5 @@ for _, row in hands_results.iterrows():
 
 # Display the image with bounding boxes
 cv2.imshow('Hands Detection', image)
-cv2.waitKey(0)
+cv2.waitKey(0) 
 cv2.destroyAllWindows()
